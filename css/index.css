@@ -191,7 +191,7 @@ body, head{
 #login, #login-sessions, #login-users{
     max-width: 500px;
     margin: 0 auto;
-    margin-top: 30%;
+    margin-top: 45%;
 }
 
 #login-user-img{
@@ -436,5 +436,5 @@ body, head{
     font-family: 'Bai Jamjuree', sans-serif;
     font-weight: 200;
     font-size: 8rem;
-    padding-right: 80px;
+    padding-right: 400px;
 }
